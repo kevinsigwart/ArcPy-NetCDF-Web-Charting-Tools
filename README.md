@@ -46,7 +46,7 @@ must copy to server.
 ## Resources
 
 * [A quick tour of ArcPy](http://resources.arcgis.com/en/help/main/10.2/index.html#//000v00000001000000)
-* [What is a Python Toolbox) (http://resources.arcgis.com/en/help/main/10.2/index.html#/What_is_a_Python_toolbox/001500000022000000/)
+* [What is a Python Toolbox] (http://resources.arcgis.com/en/help/main/10.2/index.html#/What_is_a_Python_toolbox/001500000022000000/)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
 
 
